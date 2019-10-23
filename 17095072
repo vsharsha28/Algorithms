@@ -1,0 +1,4 @@
+<?php
+$cars = array("BHU", "IIT", "COPS");
+sort($cars);
+?>
